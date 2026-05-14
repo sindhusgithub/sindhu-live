@@ -1,3 +1,64 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.page[data-slug="index"] .content-meta {
+  display: none;
+}
+.folder-icon {
+  display: none;
+}
+
+button.title-button.explorer-toggle.desktop-explorer {
+  display: none;
+}
+
+button.explorer-toggle.mobile-explorer {
+  display: none;
+}
+.explorer-ul.gradient-active {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+li.overflow-end {
+  display: none;
+}
+ul.explorer-ul {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+li.overflow-end {
+  display: none !important;
+}
+.page[data-slug="index"] .content-meta {
+  display: none !important;
+}
+.toc-content {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+a.external {
+  color: #8b6f47 !important;
+}
+
+a.external:hover {
+  color: #6b4f27 !important;
+}
+@media (max-width: 1200px) {
+  .page>#quartz-body {
+    grid-template-columns: 1fr !important;
+  }
+  
+  .left.sidebar {
+    display: none !important;
+  }
+}
+footer {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 8px;
+}
