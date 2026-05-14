@@ -22,31 +22,15 @@ tags: [page]
 
 [[garden/heroes-and-martyrs|Heroes and martyrs]] · 🌱 · May 2025
 
-[[garden/notes-from-march|Notes from March 2025]] · 🌿 · Mar 2025
-
 [[garden/ai-art|AI filters don't replace art]] · 🌿 · Mar 2025
-
-[[garden/publication|I'm starting a publication]] · 🌱 · Mar 2025
-
-[[garden/notes-from-february|Notes from February 2025]] · 🌱 · Feb 2025
 
 [[garden/narrative-os|The narratives we build, build us]] · 🌱 · Feb 2025
 
-[[garden/notes-from-january|Notes from January 2025]] · 🌱 · Jan 2025
-
-[[garden/postcards-from-vietnam|Postcards from Vietnam]] · 🌱 · Jan 2025
-
 [[garden/amoeba-roles-in-tech|Amoeba roles in tech]] · 🌱 · Sep 2024
-
-[[garden/manager-friend|The "friend who is a manager" trap]] · 🌿 · Jul 2024
 
 [[garden/questions-are-desire-paths-of-curiosity|Questions are desire paths of curiosity]] · 🌿 · Jun 2024
 
 [[garden/luck-is-the-echo-of-effort|Luck is the echo of effort]] · 🌿 · May 2024
-
-[[garden/postcards-from-kuala-lumpur|Postcards from Kuala Lumpur]] · 🪴 · Apr 2024
-
-[[garden/memories-of-kodagu|Memories of Kodagu]] · 🪴 · Apr 2024
 
 [[garden/medium-pathway|The medium is the pathway, not the purpose]] · 🌿 · Nov 2023
 
