@@ -11,9 +11,9 @@ I'm interested in tech, culture, systems thinking, anthropology and metacognitio
 
 I invariably hold a nuanced, bifocal lens to anything I'm currently building, including my independent research practice and my Design Operator role at PhonePe.
 
-[[Now]]: A sporadically updated log of what I'm up to 
+[[now]]: A sporadically updated log of what I'm up to 
 
-[[Lore]]: More about my history and interests
+[[lore]]: More about my history and interests
 
 This garden is where I document ideas and concepts I've been mulling over, as well as books I've been reading and how I spend my days. 
 
