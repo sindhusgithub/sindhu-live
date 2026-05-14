@@ -1,6 +1,6 @@
 ---
 title: sindhu's digital garden
-description: a digital garden where I tend to ideas like I tend to plants patiently and intentionally.
+description: A digital garden curated by Sindhu Shivaprasad, a writer and creative operator from Bengaluru, India.
 publish: true
 ---
 
@@ -11,9 +11,9 @@ I'm interested in tech, culture, systems thinking, anthropology and metacognitio
 
 I invariably hold a nuanced, bifocal lens to anything I'm currently building, including my independent research practice and my Design Operator role at PhonePe.
 
-[[now]]: A sporadically updated log of what I'm up to 
+[[now]]: *A sporadically updated log of what I'm up to* 
 
-[[lore]]: More about my history and interests
+[[lore]]: *More about my history and interests*
 
 This garden is where I document ideas and concepts I've been mulling over, as well as books I've been reading and how I spend my days. 
 
