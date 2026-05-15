@@ -13,8 +13,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
-    },
+  provider: "umami",
+  websiteId: "cccbe2ef-f5d0-4351-ba87-bcadbe9b294b",
+},
     locale: "en-US",
     baseUrl: "sindhu.live",
     ignorePatterns: ["private", "templates", ".obsidian"],
