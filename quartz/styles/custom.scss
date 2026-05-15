@@ -62,3 +62,8 @@ footer {
   flex-direction: column-reverse;
   gap: 8px;
 }
+@media (min-width: 1200px) {
+  header {
+    display: none;
+  }
+}
