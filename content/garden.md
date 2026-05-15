@@ -2,7 +2,7 @@
 title: Garden
 description: Essays & thoughts from the variety of rabbit holes I'm curious enough to explore.
 publish: true
-tags: [page]
+tags:
 ---
 
 These are essays & thoughts from the variety of rabbit holes I'm curious enough to explore. My writing draws from my deliberately interdisciplinary background, work and reading. Each post is in a different stage of growth and doneness:
@@ -11,10 +11,14 @@ These are essays & thoughts from the variety of rabbit holes I'm curious enough 
 
 **🌿 Sprout**: Has a good foundation. More growth is expected.
 
-**🪴 Plant** — (Fairly) established essays that get a minor pruning now and then.
+**🪴 Plant**: (Fairly) established essays that get a minor pruning now and then.
 
 ---
+[[bewilderment-review|My review of Bewilderment by Richard Powers]] · 🌿 · May 2026
 
+[[yellowface-review|A review of Yellowface by RF Kuang]] · 🌿 · May 2026
+
+[[garden/sheffield-at-21|Sheffield at 21]] · 🌱 · May 2026
 
 [[garden/ai-personal-knowledge|Digital gardening in the age of AI]] · 🌿 · Apr 2026
 
@@ -35,8 +39,6 @@ These are essays & thoughts from the variety of rabbit holes I'm curious enough 
 [[garden/medium-pathway|The medium is the pathway, not the purpose]] · 🌿 · Nov 2023
 
 [[garden/levers-of-the-soul|Levers of the soul]] · 🌱 · Sep 2023
-
-[[garden/digital-breadcrumbs-wikipedia|Digital breadcrumbs: on Wikipedia]] · 🌱 · Jun 2023
 
 [[garden/27-lessons|Regrets are resolutions, and 27 other lessons at 27]] · 🪴 · Apr 2023
 
