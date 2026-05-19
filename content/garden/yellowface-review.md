@@ -19,9 +19,7 @@ What I enjoyed the most about this book was how Kuang made it impossible to full
 
 Kuang’s own career has been marked by instances of an audience that wants something specific from her and punishes deviation. Readers want her to be angry in a particular way, political in a particular way, even diasporic in a particular way. In an [interview with NPR](https://www.npr.org/2023/05/16/1176502815/yellowface-book-novel-rf-kuang-satire-asian-american), she says this:
 
-> *…I think that a lot of our standards about cultural appropriation are language about "don't write outside of your own lane. You can only write about this experience if you've had that experience”… I think they're actually quite limiting and harmful, and backfire more often on marginalized writers than they push forward conversations about widening opportunities. You would see Asian American writers being told that you can't write anything except about immigrant trauma or the difficulties of being Asian American in the U.S.
-
-And I think that's anathema to what fiction should be. I think fiction should be about imagining outside our own perspective, stepping into other people's shoes and empathising with the other.*
+> *…I think that a lot of our standards about cultural appropriation are language about "don't write outside of your own lane. You can only write about this experience if you've had that experience”… I think they're actually quite limiting and harmful, and backfire more often on marginalized writers than they push forward conversations about widening opportunities. You would see Asian American writers being told that you can't write anything except about immigrant trauma or the difficulties of being Asian American in the U.S. And I think that's anathema to what fiction should be. I think fiction should be about imagining outside our own perspective, stepping into other people's shoes and empathising with the other.*
 
 It’s a point the protagonist also emphatically makes.
 

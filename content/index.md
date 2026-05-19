@@ -5,13 +5,15 @@ publish: true
 ---
 
 
-Hi, I'm Sindhu, a writer and creative technologist.
+Hi, I'm Sindhu, a writer and creative operator.
 
 I'm interested in tech, culture, systems thinking, anthropology and metacognition. I often bring my Humanities background to bear on questions of technology.
 
 I invariably hold a nuanced, bifocal lens to anything I'm currently building, including my independent research practice and my Design Operator role at PhonePe. I also write a newsletter, [Kindred Spirits](https://readkindredspirits.com), on agentic ways of living and making meaning. 
 
 This garden is where I document ideas and concepts I've been mulling over, as well as books I've been reading and how I spend my days.
+
+[[garden]]: *Essays, book reviews, and conceptual notes*
 
 [[now]]: *A sporadically updated log of what I'm up to* 
 
