@@ -7,7 +7,7 @@ updated: 2026-05-15
 
 *A sporadically updated log about what I'm doing, reading and thinking about*
 
-*Updated on 15 May, 2026
+*Updated on 15 May, 2026*
 
 ---
 
@@ -48,6 +48,6 @@ In terms of reading, the year is finally picking up. I've made quite the dent in
 - *[The South](https://amzn.to/4fhTwtC)* by Tash Aw
 - *[The Stranger](https://amzn.to/3P3nW8r)* by Albert Camus
 - *[Kitchen Confidential](https://amzn.to/4eOz83e)* by Anthony Bourdain
-- *[Bewilderment](https://amzn.to/3RaIi07)* by Richard Powers (read my [[bewilderment-review]])
+- *[Bewilderment](https://amzn.to/3RaIi07)* by Richard Powers (read my [[bewilderment-review|review here]])
 
 I'm now a third through *Kala* by Colin Walsh and have *Oh, William!* by Elizabeth Strout and *Caledonian Road* by Andrew O' Hagan lined up.
