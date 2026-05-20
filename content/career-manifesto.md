@@ -4,7 +4,7 @@ description: How I think about my career — long-term relational growth with pl
 publish: true
 updated: 2026-04
 ---
-How I think about my career — long-term relational growth with plenty of intellectual and experiential compounding.
+How I think about my career: long-term relational growth with plenty of intellectual and experiential compounding. If you have a project or role I'd be a fit for, do reach out at sindhushivaprasad@proton.me. 
 
 *Last updated: April 2026*
 
@@ -58,4 +58,4 @@ My work tends to create impact at multiple levels, reflecting what I think of as
 
 I've learned that my best work happens when I have ownership over my priorities. I enjoy diving deep into diverse projects, but sequentially rather than simultaneously. Give me three complex challenges to tackle over a quarter rather than ten tasks to juggle each day. This approach lets me fully understand context, spot patterns, and create solutions that stick.
 
-I don't enjoy environments where "hustle culture" is used to mask poor planning, where good and speedy work gets lost in bureaucratic processes, and where activity is mistaken for meaningful work. These preferences aren't just about personal comfort—they're about creating the conditions where meaningful work can happen, in my experience.
+I don't enjoy environments where "hustle culture" is used to mask poor planning, where good and speedy work gets lost in bureaucratic processes, and where activity is mistaken for meaningful work.
