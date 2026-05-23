@@ -10,9 +10,9 @@ How I think about my career: long-term relational growth with plenty of intellec
 
 ---
 
-I'm drawn to organisations doing work of real substance: solving fundamental problems rather than chasing trends, often in industries not in the spotlight. I think this sort of conviction shows up not just in what people build, but how they think, operate and tell their story. I'd love to be a part of that story.
+I'm drawn to organisations doing work of real substance: solving fundamental problems rather than chasing trends, often in industries not in the spotlight. I think this sort of conviction shows up not just in what people build, but how they think, operate and tell their story.
 
-### What I'm keen to do
+### What I enjoy doing
 I love working in what I call the Translation layer: turning a company's products and ethos into stories that people inside and outside pay attention to, in the formats with the highest traction.
 
 This often means roles in:
