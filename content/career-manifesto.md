@@ -13,9 +13,9 @@ How I think about my career: long-term relational growth with plenty of intellec
 I'm drawn to organisations doing work of real substance: solving fundamental problems rather than chasing trends, often in industries not in the spotlight. I think this sort of conviction shows up not just in what people build, but how they think, operate and tell their story. I'd love to be a part of that story.
 
 ### What I'm keen to do
-I'm keen to work on what I call the Translation layer: turning a company's products and ethos into stories that people inside and outside pay attention to, in the formats with the highest traction.
+I love working in what I call the Translation layer: turning a company's products and ethos into stories that people inside and outside pay attention to, in the formats with the highest traction.
 
-This could mean roles in:
+This often means roles in:
 
 - **Marketing, Comms and Growth**: building systems and properties to codify an org’s intellectual moat through marketing, communications or blended roles
 - **Brand, Culture and Editorial**: executing high-impact narrative projects (think cultural artefacts, research deep-dives, editorial properties, founder messaging)
@@ -46,7 +46,7 @@ What interests me most right now is finding organisations that possess:
 
 - **A 'Goldilocks' scale:** Large enough to face complex, systemic challenges, but small enough that good ideas don't die in committee meetings. Where it is viable, even *natural*, to identify a problem on Monday, have a conversation on Tuesday, and start implementing a solution by Wednesday.
 
-I've been lucky enough to experience a lot of this at the companies I've been at so far, and I know I'd love to double down on that. 
+I've experienced a lot of this at the companies I've been at so far, and I'd love to double down on that. 
 #### Industries I'm keen to venture into:
 - Neuroscience and neurotech
 - Space tech
