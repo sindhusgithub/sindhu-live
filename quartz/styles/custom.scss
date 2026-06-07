@@ -67,3 +67,17 @@ footer {
     display: none;
   }
 }
+@media (max-width: 1200px) {
+  .beforeBody .explorer {
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .beforeBody .explorer .explorer-content {
+    max-height: 200px !important;
+    overflow-y: auto !important;
+    mask-image: none !important;
+    -webkit-mask-image: none !important;
+  }
+}
