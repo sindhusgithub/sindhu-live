@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -60,10 +61,8 @@ Component.RecentNotes({
   title: "Recent writing",
   limit: 4,
   showTags: false,
-  filter: (f) => {
-  const slug = f.slug ?? ""
-  return slug.startsWith("garden/") && slug !== "garden/index"
-},
+  filter: (f) => (f.slug?.startsWith("garden/") && f.slug !== "garden/index") ?? false,
+  linkToMore: "garden/" as SimpleSlug,
 }),
   ],
   right: [
