@@ -8,7 +8,18 @@ export const sharedPageComponents: SharedLayout = {
   header: [Component.PageTitle(),
   Component.Search(),
   Component.Darkmode()],
-  afterBody: [],
+  afterBody: [
+  Component.MobileOnly(Component.Explorer({
+    title: "Menu",
+    folderClickBehavior: "link",
+    folderDefaultState: "collapsed",
+    useSavedState: false,
+    filterFn: (node) => {
+      const allowed = new Set(["Garden", "Lore", "Now", "Career Manifesto"])
+      return allowed.has(node.displayName)
+    },
+  })),
+],
   footer: Component.Footer({
   links: {
     home: "https://sindhu.live",
