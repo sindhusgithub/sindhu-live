@@ -24,6 +24,8 @@ I wrote on Kindred Spirits about the [virtues of a career manifesto](https://www
 ### Play
 My little balcony garden has been thriving, despite—or due to?—my spare care. I tend to be rather unfussy about my garden, so I've gravitated towards hardy plants that look after themselves, expect to be watered only once a week and pruned as often as I prune my own hair (so, not frequently). My bougainvillea is thriving, and my two lime trees (Gandharaj and regular lime) have borne sweet, citrusy little fruits. My frangipani made it back from the brink of death and the leaves are now a delicious deep green, although there are no flowers to be seen yet. (That is to be expected; it takes anywhere between 1-3 years for the plant to grow mature enough to bloom). 
 
+<p style="color: red;">test</p>
+
 <div class="image-grid">
 ![[lime-june.png]]
 ![[books-june.png]]
