@@ -24,7 +24,36 @@ I wrote on Kindred Spirits about the [virtues of a career manifesto](https://www
 ### Play
 My little balcony garden has been thriving, despite—or due to?—my spare care. I tend to be rather unfussy about my garden, so I've gravitated towards hardy plants that look after themselves, expect to be watered only once a week and pruned as often as I prune my own hair (so, not frequently). My bougainvillea is thriving, and my two lime trees (Gandharaj and regular lime) have borne sweet, citrusy little fruits. My frangipani made it back from the brink of death and the leaves are now a delicious deep green, although there are no flowers to be seen yet. (That is to be expected; it takes anywhere between 1-3 years for the plant to grow mature enough to bloom). 
 
----
+<div class="film-strip-container">
+<div class="strip-arrow left" onclick="this.parentNode.querySelector('.film-strip').scrollBy({left: -240, behavior: 'smooth'})">←</div>
+<div class="strip-arrow right" onclick="this.parentNode.querySelector('.film-strip').scrollBy({left: 240, behavior: 'smooth'})">→</div>
+<div class="film-strip">
+<div class="film-frame">
+<img src="/attachments/lime june 2026.jpg" alt="lime">
+<p class="film-caption">one of many Gandharaj limes growing in my balcony</p>
+</div>
+<div class="film-frame">
+<img src="/attachments/books june 2026.jpg" alt="books">
+<p class="film-caption">a pile of books from when I was re-categorising books onto my new bookshelves</p>
+</div>
+<div class="film-frame">
+<img src="/attachments/cubbon park.jpg" alt="park">
+<p class="film-caption">from a morning spent at Cubbon Park in early June</p>
+</div>
+<div class="film-frame">
+<img src="/attachments/dogs june 2026.jpg" alt="dogs">
+<p class="film-caption">two Shih-Tzu puppies I had the pleasure of dog-sitting for a week</p>
+</div>
+<div class="film-frame">
+<img src="/attachments/dosa june 2026.jpg" alt="dosa">
+<p class="film-caption">mandatory dose stop after my morning in Cubbon Park</p>
+</div>
+<div class="film-frame">
+<img src="/attachments/navu june 2026.jpg" alt="navu">
+<p class="film-caption">from an early dinner at Navu, a place I would recommend as an experience more than just a restaurant</p>
+</div>
+</div>
+</div>
 
 I've been off Instagram since the beginning of June, and that made me realise how accurate a description "addictive" is. In the first week, I felt what I call "phantom scrolls" and didn't have anywhere to direct that energy. But by the second week, it was as if the app never existed, and the rest of my life neatly flowed in to occupy the gaps in time. My friends and family are not so thrilled, though, because they're having to download reels to send via WhatsApp or bring me up to speed on the latest trends so they can reference them in conversations. But I think I've successfully broken the addiction and hope not to go back for the foreseeable future. 
 
