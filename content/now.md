@@ -32,7 +32,7 @@ More and more, my attention and interest turns towards reading. I now have subsc
 
 Now that the count of books in my personal library is pushing 600, I decided to bite the bullet and buy a second IKEA Billy bookcase. It's increased in price since I bought the first one three years ago, but I'm relieved they had the same design and wood tone in stock. I'm feeling all the more excited about making my study more library-like. 
 
-![[books-june.jpg]]
+![[navu-june.jpg]]
 
 ---
 
