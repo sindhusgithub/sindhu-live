@@ -29,27 +29,27 @@ My little balcony garden has been thriving, despite—or due to?—my spare care
 <div class="strip-arrow right" onclick="this.parentNode.querySelector('.film-strip').scrollBy({left: 240, behavior: 'smooth'})">→</div>
 <div class="film-strip">
 <div class="film-frame">
-<img src="/lime-june.jpg" alt="lime">
+<img src="/static/lime-june.jpg" alt="lime">
 <p class="film-caption">one of many Gandharaj limes growing in my balcony</p>
 </div>
 <div class="film-frame">
-<img src="/books-june.jpg" alt="books">
+<img src="/static/books-june.jpg" alt="books">
 <p class="film-caption">a pile of books from when I was re-categorising books onto my new bookshelves</p>
 </div>
 <div class="film-frame">
-<img src="/cubbon-june.jpg" alt="park">
+<img src="/static/cubbon-june.jpg" alt="park">
 <p class="film-caption">from a morning spent at Cubbon Park in early June</p>
 </div>
 <div class="film-frame">
-<img src="/dogs-june.jpg" alt="dogs">
+<img src="/static/dogs-june.jpg" alt="dogs">
 <p class="film-caption">two Shih-Tzu puppies I had the pleasure of dog-sitting for a week</p>
 </div>
 <div class="film-frame">
-<img src="/dosa-june.jpg" alt="dosa">
+<img src="/static/dosa-june.jpg" alt="dosa">
 <p class="film-caption">mandatory dose stop after my morning in Cubbon Park</p>
 </div>
 <div class="film-frame">
-<img src="/navu-june.jpg" alt="navu">
+<img src="/static/navu-june.jpg" alt="navu">
 <p class="film-caption">from an early dinner at Navu, a place I would recommend as an experience more than just a restaurant</p>
 </div>
 </div>
