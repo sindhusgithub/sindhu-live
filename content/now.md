@@ -27,10 +27,13 @@ My little balcony garden has been thriving, despite—or due to?—my spare care
 <p style="color: red;">test</p>
 
 <div class="image-grid">
+
 ![[lime-june.png]]
 *one of the many Gandharaj limes growing in my balcony*
+
 ![[books-june.png]]
 *a pile of books from when I was re-categorising my bookshelves*
+
 </div>
 
 I've been off Instagram since the beginning of June, and that made me realise how accurate a description "addictive" is. In the first week, I felt what I call "phantom scrolls" and didn't have anywhere to direct that energy. But by the second week, it was as if the app never existed, and the rest of my life neatly flowed in to occupy the gaps in time. My friends and family are not so thrilled, though, because they're having to download reels to send via WhatsApp or bring me up to speed on the latest trends so they can reference them in conversations. But I think I've successfully broken the addiction and hope not to go back for the foreseeable future. 
@@ -44,8 +47,11 @@ Now that the count of books in my personal library is pushing 600, I decided to 
 Whenever I wash the dishes or do something menial, I've been listening to the [Sherlock & Co. audio drama podcast](https://open.spotify.com/show/5yfvdowY1nFCyXRTD5ITqb). It's like a modern-day Sherlock Holmes set in the 2020s London we know and love, still documented by Dr John Watson but this time in the form of a true crime podcast. I find it really immersive, almost movie-like albeit without the visuals. The production value is off the charts, and the signature score is fantastic. It's also remarkable how the voice actors for Sherlock (Harry Attwell) and Watson (Paul Waggott) sound exactly like Benedict Cumberbatch and Martin Freeman, which really helps the immersion. 
 
 <div class="image-grid">
+
 ![[dogs-june.png]]
 *from a morning spent at Cubbon Park in early June*
+
 ![[cubbon-june.png]]
 *two Shih-Tzu puppies I had the pleasure of dog-sitting for a week*
+
 </div>
