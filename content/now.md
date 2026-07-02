@@ -11,6 +11,16 @@ updated: 2026-07-02
 
 ---
 
+<div class="image-grid">
+
+![[dogs-june.png]]
+*two Shih-Tzu puppies I had the pleasure of dog-sitting for a week*
+
+![[cubbon-june.png]]
+*from a morning spent at Cubbon Park in early June*
+
+</div>
+
 ### Work and Projects
 I've been working on a massive backlog of documentation, spanning literal years. For all the documentation I do at work, I am equally bad at doing it for myself, so I've set out to change that. One thing that helped massively is not worrying about the form it should take or where it should live. All I've decided to do is document the major projects of the last 6 years in excruciating detail, in my Obsidian. Only once that's out of the way will I decide how to structure and/or publish them. 
 
@@ -43,13 +53,3 @@ Now that the count of books in my personal library is pushing 600, I decided to 
 ---
 
 Whenever I wash the dishes or do something menial, I've been listening to the [Sherlock & Co. audio drama podcast](https://open.spotify.com/show/5yfvdowY1nFCyXRTD5ITqb). It's like a modern-day Sherlock Holmes set in the 2020s London we know and love, still documented by Dr John Watson but this time in the form of a true crime podcast. I find it really immersive, almost movie-like albeit without the visuals. The production value is off the charts, and the signature score is fantastic. It's also remarkable how the voice actors for Sherlock (Harry Attwell) and Watson (Paul Waggott) sound exactly like Benedict Cumberbatch and Martin Freeman, which really helps the immersion. 
-
-<div class="image-grid">
-
-![[dogs-june.png]]
-*from a morning spent at Cubbon Park in early June*
-
-![[cubbon-june.png]]
-*two Shih-Tzu puppies I had the pleasure of dog-sitting for a week*
-
-</div>
