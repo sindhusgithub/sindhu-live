@@ -23,16 +23,6 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-     Component.MobileOnly(Component.Explorer({
-    title: "Menu",
-    folderClickBehavior: "link",
-    folderDefaultState: "open",
-    useSavedState: false,
-    filterFn: (node) => {
-      const allowed = new Set(["Garden", "Lore", "Now", "Career Manifesto"])
-      return allowed.has(node.displayName)
-    },
-  })),
     Component.ArticleTitle(),
     Component.ConditionalRender({
   component: Component.ContentMeta(),
