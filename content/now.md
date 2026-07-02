@@ -28,7 +28,9 @@ My little balcony garden has been thriving, despite—or due to?—my spare care
 
 <div class="image-grid">
 ![[lime-june.png]]
+*one of the many Gandharaj limes growing in my balcony*
 ![[books-june.png]]
+*a pile of books from when I was re-categorising my bookshelves*
 </div>
 
 I've been off Instagram since the beginning of June, and that made me realise how accurate a description "addictive" is. In the first week, I felt what I call "phantom scrolls" and didn't have anywhere to direct that energy. But by the second week, it was as if the app never existed, and the rest of my life neatly flowed in to occupy the gaps in time. My friends and family are not so thrilled, though, because they're having to download reels to send via WhatsApp or bring me up to speed on the latest trends so they can reference them in conversations. But I think I've successfully broken the addiction and hope not to go back for the foreseeable future. 
@@ -43,5 +45,7 @@ Whenever I wash the dishes or do something menial, I've been listening to the [S
 
 <div class="image-grid">
 ![[dogs-june.png]]
+*from a morning spent at Cubbon Park in early June*
 ![[cubbon-june.png]]
+*two Shih-Tzu puppies I had the pleasure of dog-sitting for a week*
 </div>
