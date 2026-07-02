@@ -147,3 +147,24 @@ color: var(--accent);
 
 .strip-arrow.left { left: -18px; }
 .strip-arrow.right { right: -18px; }
+
+.film-strip-container {
+overflow: hidden;
+}
+
+@media (max-width: 1200px) {
+.film-strip {
+scroll-snap-type: x mandatory;
+}
+
+.film-frame {
+scroll-snap-align: start;
+flex: 0 0 80vw;
+}
+
+.film-frame img {
+width: 80vw;
+height: 80vw;
+}
+}
+
