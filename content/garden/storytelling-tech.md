@@ -1,6 +1,6 @@
 ---
-title: Content is infinite, coherence is scarce
-description: Why tech has suddenly begun hiring for storytelling and narrative functions
+title: Why are tech orgs suddenly hiring storytellers?
+description: Now that content is infinite, cohesion is scarce
 date: 2026-07-07
 stage: 🌿 Sprout
 publish: true
