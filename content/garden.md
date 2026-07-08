@@ -14,9 +14,7 @@ These are essays & thoughts from the variety of rabbit holes I'm curious enough 
 **🪴 Plant**: (Fairly) established essays that get a minor pruning now and then.
 
 ---
-[[bewilderment-review|My review of Bewilderment by Richard Powers]] · 🌿 · May 2026
-
-[[yellowface-review|A review of Yellowface by RF Kuang]] · 🌿 · May 2026
+[[storytelling-tech|Why are tech orgs suddenly hiring storytellers?]] · 🌿 · July 2026
 
 [[garden/sheffield-at-21|Sheffield at 21]] · 🌱 · May 2026
 
