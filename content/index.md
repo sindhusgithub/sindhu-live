@@ -1,6 +1,6 @@
 ---
 title: sindhu's digital garden
-description: A digital garden curated by Sindhu Shivaprasad, a writer and creative operator from Bengaluru, India.
+description: The website of Sindhu Shivaprasad, a creative operator, writer and brand engineer from Bengaluru, India.
 publish: true
 ---
 
