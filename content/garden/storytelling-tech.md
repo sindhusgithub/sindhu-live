@@ -65,3 +65,6 @@ The second method, of course, is introducing a standalone function. In the early
 The introduction of a Storytelling and Narrative function can, in a way, be permission-giving. I think it frees people to break away from the moulds that traditionally define creative projects in corporate tech worlds. My inkling is that a “Head of Storytelling” would be far more likely to take more creative decisions and risks than they would’ve as a PR Manager, not least because there are no hard-and-fast boundaries yet. We might start to see more and more people championing narrative-driven projects (for example, [commissioning a mini-series](https://winners.webbyawards.com/2026/video-film/performance-craft/best-writing/361802/roomies) like [Bilt](https://www.bilt.com/) did).
 
 This permission is a start, but companies where this function will compound are the ones where a causal story already exists, either in the founder’s head or already running through the business. A storyteller’s job becomes much more impactful when there’s already a strong sense, however unarticulate, of how the world works and why this company’s bet follows from it.
+
+## Up next
+- How do founders decide if they need to make a Stoyteller hire?
