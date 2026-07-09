@@ -42,7 +42,7 @@ I have to agree that at many companies, it will inevitably be just a rebranding 
 
 The cleanest test, in my opinion, is whether the narrative-building work changes what the company actually does, or only what people think about it.
 
-I think the first differentiator is that real narrative-building starts at the top and determines what gets built, who gets hired, what gets declined. Traditional marketing, comms, and PR roles have not had that authority. In my experience, especially in tech, they come in after something has been built or decided, in an effort to package it the right way. 
+I think the first differentiator is that real narrative-building starts at the top and determines what gets built, who gets hired, what gets said "no" to. Traditional marketing, comms, and PR roles have not had that authority. In my experience, especially in tech, they come in after something has been built or decided, in an effort to package it the right way. 
 
 A narrative's output, on the other hand, is coherence. It's less about the sleek one-pager that you might get to after a marathon narrative-building exercise, and more about how much it influences everything that comes after, and how everything can be traced back to it. Marketing may not necessarily be concerned whether the billboards and the investor decks are saying the same thing. A storyteller should be.
 
