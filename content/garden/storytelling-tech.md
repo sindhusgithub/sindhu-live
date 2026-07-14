@@ -42,7 +42,7 @@ I have to agree that at many companies, it will inevitably be just a rebranding 
 
 The cleanest test, in my opinion, is whether the narrative-building work changes what the company actually does, or only what people think about it.
 
-I think the first differentiator is that real narrative-building starts at the top and determines what gets built, who gets hired, what gets declined. Traditional marketing, comms, and PR roles have not had that authority. In my experience, especially in tech, they come in after something has been built or decided, in an effort to package it the right way. 
+I think the first differentiator is that real narrative-building starts at the top and determines what gets built, who gets hired, what gets said "no" to. Traditional marketing, comms, and PR roles have not had that authority. In my experience, especially in tech, they come in after something has been built or decided, in an effort to package it the right way. 
 
 A narrative's output, on the other hand, is coherence. It's less about the sleek one-pager that you might get to after a marathon narrative-building exercise, and more about how much it influences everything that comes after, and how everything can be traced back to it. Marketing may not necessarily be concerned whether the billboards and the investor decks are saying the same thing. A storyteller should be.
 
@@ -65,3 +65,6 @@ The second method, of course, is introducing a standalone function. In the early
 The introduction of a Storytelling and Narrative function can, in a way, be permission-giving. I think it frees people to break away from the moulds that traditionally define creative projects in corporate tech worlds. My inkling is that a “Head of Storytelling” would be far more likely to take more creative decisions and risks than they would’ve as a PR Manager, not least because there are no hard-and-fast boundaries yet. We might start to see more and more people championing narrative-driven projects (for example, [commissioning a mini-series](https://winners.webbyawards.com/2026/video-film/performance-craft/best-writing/361802/roomies) like [Bilt](https://www.bilt.com/) did).
 
 This permission is a start, but companies where this function will compound are the ones where a causal story already exists, either in the founder’s head or already running through the business. A storyteller’s job becomes much more impactful when there’s already a strong sense, however unarticulate, of how the world works and why this company’s bet follows from it.
+
+## Up next
+- How do founders decide if they need to make a Stoyteller hire?
