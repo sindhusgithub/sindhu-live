@@ -5,13 +5,11 @@ publish: true
 ---
 
 
-Hi, I'm Sindhu, a writer and creative operator in (and from!) Bengaluru, India.
+Hi, I'm Sindhu Shivaprasad, a writer and creative operator in (and from) Bengaluru, India. 
 
-I'm interested in tech, culture, systems thinking, anthropology and metacognition. I often bring my Humanities background to bear on questions of technology.
+I'm interested in tech, culture, systems thinking, anthropology and metacognition, and I often bring my Humanities background to bear on questions of technology.
 
-I invariably hold a nuanced, bifocal lens to anything I'm currently building, including my independent research practice and as Head of Content Design and DesignOps at PhonePe. I also write a newsletter, [Kindred Spirits](https://readkindredspirits.com), on agentic ways of living and making meaning. 
-
-This garden is where I document ideas and concepts I've been mulling over, as well as books I've been reading and how I spend my days.
+This garden is where I write essays and document ideas I've been mulling over, as well as what I've been reading and how I spend my days. 
 
 [[garden]]: *Essays, book reviews, and conceptual notes*
 
@@ -19,8 +17,7 @@ This garden is where I document ideas and concepts I've been mulling over, as we
 
 [[lore]]: *More about my history and interests*
 
-[[career-manifesto|career manifesto]]: *How I think about and shape my career*
-
 Most recently, I've written about [[narrative-os|narratives as operating systems]], [[garden/ai-personal-knowledge|digital gardening in the age of AI]], [[garden/the-apps-we-live-by|software use as micro-performances of identity]], [[garden/amoeba-roles-in-tech|amoeba roles in tech]], and [[garden/heroes-and-martyrs|why so few technologists work on public good problems]]. 
 
 Here's a cup of tea ☕️ to accompany you as you wander around. To get in touch about potential projects or other collaborations, email me at sindhushivaprasad@proton.me.
+

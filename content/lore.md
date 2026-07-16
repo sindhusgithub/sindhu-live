@@ -8,25 +8,15 @@ publish: true
 
 ---
 
-Despite starting in journalism, I fell into the startup world early and quickly discovered my penchant for making sense of creative chaos. My humanities background (MA in Journalism from Sheffield, BA in Journalism and Psychology) gives me a unique lens on technology and human systems. I see patterns others miss and connect dots others might not think to join.
+I am a reader and writer first and foremost, and those two activities are load-bearing pillars for me. I am also a creative tinkerer, a staunch patron of dying arts like letter-writing and diary-keeping, an interior design fiend, and a growing gym bro. I'm curious about just about anything as long as I get a whiff of a good story from it, and so my personal research practice is extremely multi-dimensional.
 
-Right now, I work at PhonePe. Before that, I spent four years at Obvious, an award-winning product consultancy. As their resident dot-connector and Chief of Staff to the founders, I led MarCom and sales for the consultancy and SaaS product, built design operations for a fintech unicorn client, and acted as the founders' thinking and execution partner.
+I think of myself as a Third Culture Kid, having been brought up in Nigeria, India and Dubai—and studied in England for a bit—and so I have a strong tendency to feel at home in the in-betweens. 
 
-After years of being heads down at work, I'm now actively expanding my life outside it. Lately, I've been training for 10ks, making things with my hands, cooking elaborate meals, designing my apartment, filming vlogs, and practising film photography.
+Despite starting in journalism, I fell into the tech world early and quickly discovered my curiosity for making sense of creative chaos. My work and writing draw from my deliberately interdisciplinary background: between undergrad and postgrad, I’ve studied and practiced journalism, English literature and theory, sociology, economics, psychology, philosophy, ethics, print design, and political science. 
 
-In case you're interested, my [[career-manifesto|career manifesto]] goes deeper into how I'm crafting and retro-analysing my professional trajectory.
+I currently work at PhonePe, chewing on problems of narrative design, org culture and brand-building. Before that, I spent four years at Obvious, an award-winning product consultancy, as the Chief of Staff to the founders and general Swiss Army Knife.
 
-## Threads I often pull on
-
-A lot of my work, research, and writing focuses on the humanities, technology and agentic living. I love writing, talking and reasoning about:
-
-- Building teams where skills compound and human potential is unlocked
-- Unpacking the art and science of written storytelling for products and brands
-- Turning messy creative processes into repeatable magic
-- Helping leaders find and use their authentic voice
-- Creating careers that are fluid and self-directed
-
-I'd love to talk about these more in public. So if you have a podcast, blog or other collaborative format you'd like me to contribute to, please [email me](mailto:work@sindhushivaprasad.com)!
+My newsletter, [Kindred Spirits](https://readkindredspirits.com), is where I write once a month on agentic ways of living and making meaning. I live and work in Bengaluru, India, a city that is a formative part of my identity. 
 
 ## Published writing
 
