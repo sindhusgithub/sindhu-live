@@ -8,6 +8,10 @@ tags:
   - sideprojects
   - sprout
 ---
+
+![[etf-screenshot.png]]
+
+
 Exactly This Feeling is a book recommendation tool that accepts a mood, feeling, emotion or hyperspecific memory submitted by the user and answers it by recommending three books from my personal library of 521 titles. It lives at [books.sindhu.live](https://books.sindhu.live/).
 
 Most recommendation tools categorise by genre, ratings, themes, or author. But when people describe books, they invariably describe how it made them feel, or related to a feeling they've had:
