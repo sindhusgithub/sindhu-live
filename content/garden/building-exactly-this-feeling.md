@@ -1,6 +1,6 @@
 ---
-title: How I built Exactly This Thing,
-description: Exactly This Thing is a vibes-based book recommendation tool hosted at books.sindhu.live
+title: How I built Exactly This Feeling
+description: Exactly This Feeling is a vibes-based book recommendation tool hosted at books.sindhu.live
 date: 2026-07-17
 stage: 🌿 Sprout
 publish: true
