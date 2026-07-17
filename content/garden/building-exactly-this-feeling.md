@@ -150,6 +150,21 @@ Ultimately, I didn't ship this because a composition like that doesn't reflow to
 
 The final decision was to keep the original grid-based layout.
 
+## Colophon the cat
+I added a small pixel-art cat that hops around the bottom of the page. I went through a bunch of GitHub repositories but many existing pixel pets turned out to be for entirely different ecosystems like Obsidian and Codex. In the end, I used a 32×32 cat sprite from Vassago Labs' "Just a Few Cats" pack (itch.io) which had roughly forty different individual cat designs. 
+
+I wanted the cat to walk around the screen, but there was no walk-cycle animation set for one consistent character, or separate leg/paw frames to animate. To achieve that, I asked Claude to introduce a second animation frame built off of one specific cat sprite. Both animation frames are deliberate geometric transforms of the single source sprite, where the squash-and-stretch technique would mimic the cat contacting the ground during each hop.
+
+(I tried a third frame to make the cat "loaf" but since it was using the original source image, it ended up looking squished instead.)
+
+The final behaviour is a three-state machine (hop / look-around / long-rest):
+
+- **Hop**: normal movement, arcing via a sine-wave vertical offset, direction flips via CSS `scaleX` 
+- **Look-around**: triggered by a small per-second chance while walking. It follows a full beat structure: pause facing forward → glance side to side 2–4 times (by flipping the cat) → pause facing forward again → pick a new direction (45% reverse, 10% fully random, 45% continue). 
+- **Long rest**: a rarer, longer full stop (every 20–30 seconds, holds for 10 seconds) exactly where the cat currently stands, distinct from the shorter look-around pauses.
+
+I named the cat Colophon as a nod to the printer's note at the back of a book that lists who made it. Colophon is also the site's favicon. 
+
 ---
 ## Future scope
 - source the recommendations through an API like Open Library/ Google Books to expand the choices
@@ -157,4 +172,3 @@ The final decision was to keep the original grid-based layout.
 - crowdsourced or Goodreads-based ratings, since people might need that extra nudge of social proof — feedback from [[vishwanath pasumarthi]]
 - set up analytics, especially to understand referral sources
 - a reshuffle feature in the off chance that the user has already read all three book recommendations
-- 
