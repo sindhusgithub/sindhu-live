@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [Component.PageTitle(),
   Component.Search(),
   Component.Darkmode()],
-  afterBody: [],
+  afterBody: [Component.ClickSound()],
   footer: Component.Footer({
   links: {
     home: "https://sindhu.live",
@@ -97,3 +97,5 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+

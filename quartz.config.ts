@@ -23,10 +23,10 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
-      typography: {
-        header: "Alegreya Sans",
-        body: "Alegreya",
-        code: "IBM Plex Mono",
+    typography: {
+        header: "DM Serif Display",
+        body: "Bricolage Grotesque",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
