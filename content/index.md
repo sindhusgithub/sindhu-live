@@ -17,7 +17,7 @@ This garden is where I write essays and document ideas I've been mulling over, a
 
 [[lore]]: *More about my history and interests*
 
-Most recently, I've written about [[translation-layer|how the Translation Layer transforms meaning in tech orgs]], [[garden/ai-personal-knowledge|digital gardening in the age of AI]], [[garden/the-apps-we-live-by|software use as micro-performances of identity]], [[garden/amoeba-roles-in-tech|amoeba roles in tech]], and [[garden/heroes-and-martyrs|why so few technologists work on public good problems]]. 
+Most recently, I've written about [[narrative-os|narratives as operating systems]], [[garden/ai-personal-knowledge|digital gardening in the age of AI]], [[garden/the-apps-we-live-by|software use as micro-performances of identity]], [[garden/amoeba-roles-in-tech|amoeba roles in tech]], and [[garden/heroes-and-martyrs|why so few technologists work on public good problems]]. 
 
 Here's a cup of tea ☕️ to accompany you as you wander around. To get in touch about potential projects or other collaborations, email me at sindhushivaprasad@proton.me.
 
