@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
   component: Component.ContentMeta(),
   condition: (page) => {
     const slug = page.fileData.slug ?? ""
-    return !["index", "lore", "now", "garden/index"].includes(slug)
+    return !["index", "lore", "now", "stream"].includes(slug)
   },
 }),
     Component.TagList(),
@@ -52,7 +52,7 @@ Component.Explorer({
   folderDefaultState: "open",
   useSavedState: false,
   filterFn: (node) => {
-    const allowed = new Set(["Garden", "Lore", "Now",])
+    const allowed = new Set(["Lore", "Now", "Stream"])
     return allowed.has(node.displayName)
   },
 }),
@@ -90,7 +90,7 @@ export const defaultListPageLayout: PageLayout = {
   folderDefaultState: "open",
   useSavedState: false,
   filterFn: (node) => {
-    const allowed = new Set(["Garden", "Lore", "Now"])
+    const allowed = new Set(["Lore", "Now", "Stream"])
     return allowed.has(node.displayName)
   },
 }),
