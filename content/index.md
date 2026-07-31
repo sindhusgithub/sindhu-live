@@ -5,7 +5,7 @@ publish: true
 ---
 
 
-Hi, I'm Sindhu Shivaprasad, a writer and creative operator. This internet garden is where I write essays and document ideas, reading, and moments of time I've been mulling over. 
+This is where I, Sindhu Shivaprasad, write essays and document ideas, reading, and moments of time I've been mulling over. 
 
 I'm interested in culture, systems thinking, anthropology and metacognition. I often bring my Humanities background to bear on questions of technology. Learn more about me by [[lore|reading my lore]] or [[now|going through my now page]].
 

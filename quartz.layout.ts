@@ -22,17 +22,21 @@ export const sharedPageComponents: SharedLayout = {
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.ArticleTitle(),
-    Component.ConditionalRender({
-  component: Component.ContentMeta(),
-  condition: (page) => {
-    const slug = page.fileData.slug ?? ""
-    return !["index", "lore", "now"].includes(slug)
-  },
-}),
-    Component.TagList(),
-  ],
+beforeBody: [
+  Component.ConditionalRender({
+    component: Component.Garden(),
+    condition: (page) => (page.fileData.slug ?? "") === "index",
+  }),
+  Component.ArticleTitle(),
+  Component.ConditionalRender({
+    component: Component.ContentMeta(),
+    condition: (page) => {
+      const slug = page.fileData.slug ?? ""
+      return !["index", "lore", "now"].includes(slug)
+    },
+  }),
+  Component.TagList(),
+],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
