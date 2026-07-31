@@ -1,6 +1,6 @@
 ---
 title: Lore
-description: About me — a writer, operator, systems thinker, and perpetual dot-connector
+description: About Sindhu — a writer, operator, systems thinker, and perpetual dot-connector
 publish: true
 ---
 
@@ -8,15 +8,17 @@ publish: true
 
 ---
 
-I am a reader and writer first and foremost, and those two activities are load-bearing pillars for me. I am also a creative tinkerer, a staunch patron of dying arts like letter-writing and diary-keeping, an interior design fiend, and a growing gym bro. I'm curious about just about anything as long as I get a whiff of a good story from it, and so my personal research practice is extremely multi-dimensional.
+I am a reader and writer first and foremost. I am also a creative tinkerer, a staunch patron of dying arts like letter-writing and diary-keeping, an interior design fiend, and a growing gym bro.
 
-I think of myself as a Third Culture Kid, having been brought up in Nigeria, India and Dubai—and studied in England for a bit—and so I have a strong tendency to feel at home in the in-betweens. 
+I'm curious about just about anything as long as I get a whiff of a good story from it, and so my personal research practice is extremely multi-dimensional.
 
-Despite starting in journalism, I fell into the tech world early and quickly discovered my curiosity for making sense of creative chaos. My work and writing draw from my deliberately interdisciplinary background: between undergrad and postgrad, I’ve studied and practiced journalism, English literature and theory, sociology, economics, psychology, philosophy, ethics, print design, and political science. 
+I think of myself as a Third Culture Kid, having been brought up in Nigeria, India and Dubai (and studied in England for a bit). I have a strong tendency to feel most at home first at home, and then in the in-betweens. I live and work in Bengaluru, India, a city that I consider a formative part of my identity. 
 
-I currently work at PhonePe, chewing on problems of narrative design, org culture and brand-building. Before that, I spent four years at Obvious, an award-winning product consultancy, as the Chief of Staff to the founders and general Swiss Army Knife.
+I am an [NCTJ-accredited](https://www.nctj.com/) journalist by training, but fell into the tech world early very early on in my career. My work and writing draw from my deliberately interdisciplinary background: between undergrad and postgrad, I’ve studied and practiced journalism, English literature and theory, sociology, economics, psychology, philosophy, ethics, print design, and political science. 
 
-My newsletter, [Kindred Spirits](https://readkindredspirits.com), is where I write once a month on agentic ways of living and making meaning. I live and work in Bengaluru, India, a city that is a formative part of my identity. 
+I currently work at PhonePe, India's largest fintech startup. One in three Indians uses PhonePe to pay their bills, transfer money and run their financial lives. Here, I spend my days chewing on problems of narrative design, org culture and brand-building. Previously, I spent four years at Obvious, an award-winning product consultancy, as the Chief of Staff to the founders and general Swiss Army Knife.
+
+My newsletter, [Kindred Spirits](https://readkindredspirits.com), is where I write on agentic ways of living and making meaning. 
 
 ## Published writing
 

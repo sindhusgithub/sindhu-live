@@ -114,3 +114,26 @@ article {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
+.transclude {
+  margin: 0 0 3rem 0;
+
+  // Quartz auto-generates this h1 from the note's title. Hidden here
+  // since your entries already carry their own date/tag line in the
+  // body — an extra bold title above every item would be redundant
+  // and doesn't match the stream look you're going for.
+  > h1:first-child {
+    display: none;
+  }
+
+  .transclude-src {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--gray);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
