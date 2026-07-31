@@ -56,7 +56,7 @@ Component.Explorer({
   folderDefaultState: "open",
   useSavedState: false,
   filterFn: (node) => {
-    const allowed = new Set(["Lore", "Now", "Stream"])
+    const allowed = new Set(["Lore", "Now"])
     return allowed.has(node.displayName)
   },
 }),
