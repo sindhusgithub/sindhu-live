@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
   component: Component.ContentMeta(),
   condition: (page) => {
     const slug = page.fileData.slug ?? ""
-    return !["index", "lore", "now", "stream"].includes(slug)
+    return !["index", "lore", "now"].includes(slug)
   },
 }),
     Component.TagList(),
@@ -90,7 +90,7 @@ export const defaultListPageLayout: PageLayout = {
   folderDefaultState: "open",
   useSavedState: false,
   filterFn: (node) => {
-    const allowed = new Set(["Lore", "Now", "Stream"])
+    const allowed = new Set(["Lore", "Now"])
     return allowed.has(node.displayName)
   },
 }),

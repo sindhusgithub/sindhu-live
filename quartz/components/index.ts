@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import ClickSound from "./ClickSound"
+import Garden from "./Garden"
 
 export {
   ArticleTitle,
@@ -51,5 +52,6 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  ClickSound
+  ClickSound,
+  Garden
 }
