@@ -43,7 +43,6 @@ li.overflow-end {
 }
 a.external {
   color: var(--dark) !important;
-  font-weight: 700;
   text-decoration: underline;
   text-decoration-color: var(--dark);
 }
@@ -136,4 +135,7 @@ article {
       color: var(--secondary);
     }
   }
+}
+.external-icon {
+  display: none !important;
 }
