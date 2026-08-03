@@ -42,11 +42,14 @@ li.overflow-end {
   overflow: visible !important;
 }
 a.external {
-  color: #8b6f47 !important;
+  color: var(--dark) !important;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: var(--dark);
 }
 
 a.external:hover {
-  color: #6b4f27 !important;
+  color: var(--dark) !important;
 }
 @media (max-width: 1200px) {
   .page>#quartz-body {
