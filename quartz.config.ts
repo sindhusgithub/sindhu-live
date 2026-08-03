@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
     typography: {
-        header: "DM Serif Display",
-        body: "Bricolage Grotesque",
+        header: "EB Garamond",
+        body: "EB Garamond",
         code: "JetBrains Mono",
       },
       colors: {
@@ -34,7 +34,7 @@ const config: QuartzConfig = {
           lightgray: "#ececea",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
+          dark: "#1a1a1a",
           secondary: "#5c7a6b",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
