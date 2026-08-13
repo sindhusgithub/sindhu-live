@@ -14,6 +14,8 @@ These are essays & thoughts from the variety of rabbit holes I'm curious enough 
 **🪴 Plant**: (Fairly) established essays that get a minor pruning now and then.
 
 ---
+[[review-lazar-nelio-biedermann|Intimacy in the ruins of a nation: A review of Lázár by Nelio Biedermann]] · 🌿 · August 2026
+
 [[building-exactly-this-feeling|How I built Exactly This Feeling]] · 🌿 · July 2026
 
 [[storytelling-tech|Why are tech orgs suddenly hiring storytellers?]] · 🌿 · July 2026

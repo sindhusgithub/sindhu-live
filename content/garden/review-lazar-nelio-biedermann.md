@@ -32,7 +32,9 @@ Beyond its historical ambitions, _Lázár_ also promises a Gothic undertone, but
 
 Biedermann's self-proclaimed literary influences run through the book both attributed and unattributed: here a character reads Virginia Woolf for the first time and is irrevocably changed by it, there a Benedictine chaplain hiding from the Gestapo invokes Marcel Proust at every turn.
  
-Proust, specifically, is a looming presence in this novel. Somewhere towards the middle of the novel, there's a paragraph that paraphrases the original opening of Swann's Way: *"For a long time I used to go to bed early..."* But where Proust's version is long-winding and intensely sensory, Biedermann's pastiche is shorter and deftly evokes oppressive gloom and despair. To quote [Kenneth M Walsh's review](https://jump.kennethinthe212.com/2026/04/saturday-stache-nelio-biedermann.html): "Biedermann admires Proust’s high-society aestheticism but wants to smash it into the darkest decades of modern Europe."
+Proust, specifically, is a looming presence in this novel. Somewhere towards the middle of the novel, there's a paragraph that paraphrases the original opening of Swann's Way: *"For a long time I used to go to bed early..."*
+
+But where Proust's version is long-winding and intensely sensory, Biedermann's pastiche is shorter and deftly evokes oppressive gloom and despair. To quote [Kenneth M Walsh's review](https://jump.kennethinthe212.com/2026/04/saturday-stache-nelio-biedermann.html): "Biedermann admires Proust’s high-society aestheticism but wants to smash it into the darkest decades of modern Europe."
  
 *(An aside: I think the fact that the paragraph leapt out to me the way it did ultimately attests to the singularity of Proust's style. His motifs and evocativeness are so distinct that the passage immediately asserted its lineage, even without attribution.)*
 
