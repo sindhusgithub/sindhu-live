@@ -7,7 +7,7 @@ publish: true
 
 I'm Sindhu Shivaprasad, a writer and creative operator. This is where I write essays on culture, tech, systems, and the humanities.
 
-I also occasionally document ideas, reading, and moments of time I've been mulling over.
+I also occasionally document ideas, [book reviews](/tags/book-reviews), and moments of time I've been mulling over.
 
 Find them all in my [[garden]], or start with my latest essay on [[storytelling-tech|why tech orgs are suddenly hiring storytellers]]. 
 
