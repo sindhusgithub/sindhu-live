@@ -2,54 +2,30 @@
 title: Now
 description: A sporadically updated log of what I've been doing, reading and thinking about
 publish: true
-updated: 2026-07-02
+updated: 2026-08-28
 ---
 
 *A sporadically updated log about what I'm doing, reading and thinking about*
 
-*Updated on 02 July, 2026*
+*Updated on 28 August, 2026*
 
 ---
-
-<div class="image-grid">
-
-![[dogs-june.png]]
-*two Shih-Tzu puppies I had the pleasure of dog-sitting for a week*
-
-![[cubbon-june.png]]
-*from a morning spent at Cubbon Park in early June*
-
-</div>
 
 ### Work and Projects
-I've been working on a massive backlog of documentation, spanning literal years. For all the documentation I do at work, I am equally bad at doing it for myself, so I've set out to change that. One thing that helped massively is not worrying about the form it should take or where it should live. All I've decided to do is document the major projects of the last 6 years in excruciating detail, in my Obsidian. Only once that's out of the way will I decide how to structure and/or publish them. 
+After 2.5 years, I've moved on from PhonePe. This was my first at-scale company; my 2024 shift from tight-knit team of 35 to a sprawling 6 floors of ~8000 people invoked a mental and almost-physical vertigo. The scale was such that, no matter how long I stayed at this company, I would never know everyone personally. Eventually, though, I settled in and did work I was really proud of, and in ways I surprised myself by.
 
----
+While I grew up a ton in this company, in every sense of the phrase, it was becoming clearer to me that I needed/ wanted to engage more in the narrative design and storytelling aspect of a brand. I'm grateful that there were a lot of people who'd reached out to me in the hopes of working together. As someone with an amoeba role, side doors and genuine conversations are the most fruitful ways of getting work that I'm excited for and the partnering company really needs done. I haven't submitted my resume and filled out a job application form for a long, long time, thanks to the kind of people I've been able to make friends with.
 
-I wrote on Kindred Spirits about the [virtues of a career manifesto](https://www.readkindredspirits.com/p/how-to-become-unmissable), calling it "an act of intense, concentrated attention". I think I managed to succinctly capture what a career manifesto is and can do for people who write them:
-
->A career manifesto is both a filter and a flare. As a filter, it repels the consensus-good in favour of the personal-great. As a flare, it attracts the rare, specific fits, the [Hell Yeah](https://sive.rs/hellyeah) opportunities. Once you’ve said plainly what you want and how you operate, you become findable by the people and situations that fit and—just as usefully—unbearable to the ones that don’t.
+I had a lovely farewell from close colleagues, and was gifted a bag-full of books from Champaca by [Rahul](https://www.rahulgonsalves.com/), who has had the pleasure (or displeasure?) of being my boss and super-boss for six years. I'll soon share more on where I'm headed next, but for now I'm on a two-week break. More on how that's going below :)
 
 
 ### Play
-My little balcony garden has been thriving, despite—or due to?—my spare care. I tend to be rather unfussy about my garden, so I've gravitated towards hardy plants that look after themselves, expect to be watered only once a week and pruned as often as I prune my own hair (so, not frequently). My bougainvillea is thriving, and my two lime trees (Gandharaj and regular lime) have borne sweet, citrusy little fruits. My frangipani made it back from the brink of death and the leaves are now a delicious deep green, although there are no flowers to be seen yet. (That is to be expected; it takes anywhere between 1-3 years for the plant to grow mature enough to bloom). 
+On Kindred Spirits, [I wrote about the idea of friction](https://www.readkindredspirits.com/p/do-not-remove-the-fence), and friction-less experiences being the great definer of our times. I have many favourite paragraphs, and this is one of them:
 
-<div class="image-grid">
+>Striving and struggling—friction—is fodder for meaning, because it demands investment. It needs you to get your hands dirty, worry away at challenges like a horse on its bit, throw your presence and energy into the current moment. A lot of things are meaningful not _despite_ the friction, but _because_ of it.
 
-![[lime-june.png]]
-*one of the many Gandharaj limes growing in my balcony*
+I took a short solo trip to Mysore, mostly to stay at this heritage hotel I've had my eye on for ages. It was an incredibly relaxing trip—Mysore is so wonderfully walkable so I got a lot of steps in while soaking in the warmth and sunshine of the city. It also gave me a chance to try out the new Vande Bharat trains, and that was a really novel experience. I'll write more about my trip in a separate post. 
 
-![[books-june.png]]
-*a pile of books from when I was re-categorising my bookshelves*
+I've been reading steadily. I'm currently halfway through the Neapolitan Quartet by Elena Ferrante. I can't understate what a heart-rending, meaningful, impressive feat these novels are. I know I'm going to be so sad when I'm through with them. 
 
-</div>
-
-I've been off Instagram since the beginning of June, and that made me realise how accurate a description "addictive" is. In the first week, I felt what I call "phantom scrolls" and didn't have anywhere to direct that energy. But by the second week, it was as if the app never existed, and the rest of my life neatly flowed in to occupy the gaps in time. My friends and family are not so thrilled, though, because they're having to download reels to send via WhatsApp or bring me up to speed on the latest trends so they can reference them in conversations. But I think I've successfully broken the addiction and hope not to go back for the foreseeable future. 
-
-More and more, my attention and interest turns towards reading. I now have subscriptions to *The Paris Review*, *The New Yorker*, and *The New York Review of Books*, which I rotate through every morning and lunch break. My [Kobo Clara](https://amzn.to/4wj7SPA) is possibly the best electronic investment I've made in the recent years, and it keeps me company literally everywhere I go. I read 12 books in June including *[Kohinoor](https://amzn.to/4eXYdHl)*, a rollicking non-fiction book about the world's most infamous diamond by Anita Anand and William Dalrymple. 
-
-Now that the count of books in my personal library is pushing 600, I decided to bite the bullet and buy a second IKEA Billy bookcase. It's increased in price since I bought the first one three years ago, but I'm relieved they had the same design and wood tone in stock. I'm feeling all the more excited about making my study more library-like. 
-
----
-
-Whenever I wash the dishes or do something menial, I've been listening to the [Sherlock & Co. audio drama podcast](https://open.spotify.com/show/5yfvdowY1nFCyXRTD5ITqb). It's like a modern-day Sherlock Holmes set in the 2020s London we know and love, still documented by Dr John Watson but this time in the form of a true crime podcast. I find it really immersive, almost movie-like albeit without the visuals. The production value is off the charts, and the signature score is fantastic. It's also remarkable how the voice actors for Sherlock (Harry Attwell) and Watson (Paul Waggott) sound exactly like Benedict Cumberbatch and Martin Freeman, which really helps the immersion. 
+I finally upgraded my personal laptop from the 2018 MacBook Pro to the 2026 MacBook Air M5. Although my Pro was working valiantly despite its years, the difference in speed is light and day. My plan is to set up the old laptop as a home computer for my mom, who occasionally uses Excel and email for her library volunteer work. 
