@@ -14,7 +14,9 @@ updated: 2026-08-28
 ### Work and Projects
 After 2.5 years, I've moved on from PhonePe. This was my first at-scale company; my 2024 shift from tight-knit team of 35 to a sprawling 6 floors of ~8000 people invoked a mental and almost-physical vertigo. The scale was such that, no matter how long I stayed at this company, I would never know everyone personally. Eventually, though, I settled in and did work I was really proud of, and in ways I surprised myself by.
 
-While I grew up a ton in this company, in every sense of the phrase, it was becoming clearer to me that I needed/ wanted to engage more in the narrative design and storytelling aspect of a brand. I'm grateful that there were a lot of people who'd reached out to me in the hopes of working together. As someone with an amoeba role, side doors and genuine conversations are the most fruitful ways of getting work that I'm excited for and the partnering company really needs done. I haven't submitted my resume and filled out a job application form for a long, long time, thanks to the kind of people I've been able to make friends with.
+While I grew up a ton in this company, in every sense of the phrase, it was becoming clearer to me that I needed/ wanted to engage more in the narrative design and storytelling aspect of a brand.
+
+I'm grateful that there were a lot of people who'd reached out to me in the hopes of working together. As someone with an [[amoeba-roles-in-tech|amoeba role]], side doors and genuine conversations are the most fruitful ways of getting work that I'm excited for and the partnering company really needs done. I haven't submitted my resume and filled out a job application form for a long, long time, thanks to the kind of people I've been able to make friends with.
 
 I had a lovely farewell from close colleagues, and was gifted a bag-full of books from Champaca by [Rahul](https://www.rahulgonsalves.com/), who has had the pleasure (or displeasure?) of being my boss and super-boss for six years. I'll soon share more on where I'm headed next, but for now I'm on a two-week break. More on how that's going below :)
 
