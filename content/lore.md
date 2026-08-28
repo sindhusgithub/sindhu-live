@@ -16,7 +16,7 @@ I think of myself as a Third Culture Kid, having been brought up in Nigeria, Ind
 
 I am an [NCTJ-accredited](https://www.nctj.com/) journalist by training, but fell into the tech world early very early on in my career. My work and writing draw from my deliberately interdisciplinary background: between undergrad and postgrad, I’ve studied and practiced journalism, English literature and theory, sociology, economics, psychology, philosophy, ethics, print design, and political science. 
 
-I currently work at PhonePe, India's largest fintech startup. One in three Indians uses PhonePe to pay their bills, transfer money and run their financial lives. Here, I spend my days chewing on problems of narrative design, org culture and brand-building. Previously, I spent four years at Obvious, an award-winning product consultancy, as the Chief of Staff to the founders and general Swiss Army Knife.
+Until August 2026, I worked at PhonePe, India's largest fintech startup. One in three Indians uses PhonePe to pay their bills, transfer money and run their financial lives. I spent my days chewing on problems of narrative design, org culture and brand-building. Previously, I spent four years at Obvious, an award-winning product consultancy, as the Chief of Staff to the founders and general Swiss Army Knife.
 
 My newsletter, [Kindred Spirits](https://readkindredspirits.com), is where I write on agentic ways of living and making meaning. 
 
