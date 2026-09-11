@@ -103,9 +103,9 @@ footer {
   margin-top: 0.25rem;
 }
 
-// Bellefair reading system: give the type enough scale and leading for long-form essays.
+// Newsreader reading system: slightly denser than Bellefair, so keep the body a touch smaller.
 article {
-  font-size: 1.3125rem; // 21px at the browser default root size
+  font-size: 1.25rem; // 20px at the browser default root size
   line-height: 1.65;
 }
 
