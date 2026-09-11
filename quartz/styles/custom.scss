@@ -103,13 +103,55 @@ footer {
   margin-top: 0.25rem;
 }
 
+// Bellefair reading system: give the type enough scale and leading for long-form essays.
 article {
-  font-size: 1.1rem;
+  font-size: 1.3125rem; // 21px at the browser default root size
+  line-height: 1.65;
 }
 
-@media (min-width: 1200px) {
+article > h1 {
+  font-size: clamp(2.4rem, 5vw, 3.25rem) !important;
+  line-height: 1.08;
+}
+
+article h2 {
+  font-size: 2rem;
+  line-height: 1.15;
+  margin-top: 1.8em;
+}
+
+article h3 {
+  font-size: 1.55rem;
+  line-height: 1.2;
+  margin-top: 1.6em;
+}
+
+article p {
+  margin-bottom: 1.15em;
+}
+
+article blockquote {
+  font-size: 1.12em;
+  line-height: 1.55;
+  margin: 2em 0;
+}
+
+@media (max-width: 700px) {
   article {
-    font-size: 1.1rem;
+    font-size: 1.1875rem; // 19px on smaller screens
+    line-height: 1.62;
+  }
+
+  article > h1 {
+    font-size: clamp(2.1rem, 10vw, 2.6rem) !important;
+  }
+
+  article h2 {
+    font-size: 1.75rem;
+  }
+
+  article h3 {
+    font-size: 1.4rem;
   }
 }
 
