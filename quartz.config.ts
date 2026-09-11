@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
     typography: {
-        header: "Crimson Pro",
-        body: "Crimson Pro",
+        header: "Bellefair",
+        body: "Bellefair",
         code: "JetBrains Mono",
       },
       colors: {
