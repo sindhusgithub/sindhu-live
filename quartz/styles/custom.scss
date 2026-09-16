@@ -173,13 +173,16 @@ footer {
   margin-top: 0.25rem;
 }
 
-// Keep the essay header on the same 680px axis as the reading column.
-.center > .page-header,
-.center > .content-meta,
-.center > .tags {
+// The beforeBody components are siblings of the article, not a page-header wrapper.
+// Give each one the same centered measure as the essay body.
+.article-title,
+.content-meta,
+ul.tags {
   max-width: 680px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
+  box-sizing: border-box;
 }
 
 // Newsreader carries the continuous reading experience.
