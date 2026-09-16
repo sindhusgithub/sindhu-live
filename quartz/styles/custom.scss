@@ -173,6 +173,15 @@ footer {
   margin-top: 0.25rem;
 }
 
+// Keep the essay header on the same 680px axis as the reading column.
+.center > .page-header,
+.center > .content-meta,
+.center > .tags {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 // Newsreader carries the continuous reading experience.
 article {
   font-family: "Newsreader", serif;
