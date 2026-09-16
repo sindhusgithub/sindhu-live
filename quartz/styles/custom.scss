@@ -1,5 +1,78 @@
 @use "./base.scss";
 
+// ABC Areal is the interface voice; Newsreader remains the reading voice.
+@font-face {
+  font-family: "ABC Areal";
+  src: url("/static/fonts/ABCAreal-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Areal";
+  src: url("/static/fonts/ABCAreal-RegularItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Areal";
+  src: url("/static/fonts/ABCAreal-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Areal";
+  src: url("/static/fonts/ABCAreal-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Areal";
+  src: url("/static/fonts/ABCAreal-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Areal";
+  src: url("/static/fonts/ABCAreal-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --ui-font: "ABC Areal", sans-serif;
+}
+
+body {
+  font-family: var(--ui-font);
+}
+
+// Long-form writing stays in Newsreader.
+article {
+  font-family: "Newsreader", serif;
+}
+
+// Interface elements that live inside an article should still use Areal.
+.content-meta,
+.tags,
+.tag-link,
+.breadcrumb-container,
+.toc,
+.backlinks,
+.transclude-src {
+  font-family: var(--ui-font);
+}
+
 .page[data-slug="index"] .content-meta {
   display: none;
 }
@@ -95,7 +168,7 @@ footer {
 }
 
 .image-grid p {
-  font-family: var(--font-serif);
+  font-family: "Newsreader", serif;
   font-style: italic;
   font-size: 0.8rem;
   color: var(--darkgray);
