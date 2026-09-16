@@ -2,7 +2,6 @@
 title: Index
 description: Signposts to different parts of Sindhu's digital garden
 publish: true
-updated: 2026-09-16
 ---
 ---
 [[lore]]: the long and short of who I am
