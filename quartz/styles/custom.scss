@@ -1,6 +1,6 @@
 @use "./base.scss";
 
-// ABC Areal is the interface voice; Newsreader remains the reading voice.
+// ABC Areal is the display/interface voice; Newsreader remains the reading face.
 @font-face {
   font-family: "ABC Areal";
   src: url("/static/fonts/ABCAreal-Regular.woff2") format("woff2");
@@ -49,28 +49,20 @@
   font-display: swap;
 }
 
-:root {
-  --ui-font: "ABC Areal", sans-serif;
-}
-
-body {
-  font-family: var(--ui-font);
-}
-
-// Long-form writing stays in Newsreader.
-article {
-  font-family: "Newsreader", serif;
-}
-
-// Interface elements that live inside an article should still use Areal.
+// Site chrome and sidebars use Areal.
+.left.sidebar,
+.right.sidebar,
+header,
+footer,
+nav,
+.search,
+.explorer,
+.toc,
 .content-meta,
 .tags,
 .tag-link,
-.breadcrumb-container,
-.toc,
-.backlinks,
-.transclude-src {
-  font-family: var(--ui-font);
+.breadcrumb-container {
+  font-family: "ABC Areal", sans-serif;
 }
 
 .page[data-slug="index"] .content-meta {
@@ -176,27 +168,42 @@ footer {
   margin-top: 0.25rem;
 }
 
-// Newsreader reading system: slightly denser than Bellefair, so keep the body a touch smaller.
+// Newsreader carries the continuous reading experience.
 article {
+  font-family: "Newsreader", serif;
   font-size: 1.25rem; // 20px at the browser default root size
   line-height: 1.65;
+}
+
+// Areal creates contrast at structural and expressive moments.
+article > h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6,
+article blockquote {
+  font-family: "ABC Areal", sans-serif;
 }
 
 article > h1 {
   font-size: clamp(2.4rem, 5vw, 3.25rem) !important;
   line-height: 1.08;
+  font-weight: 500;
 }
 
 article h2 {
   font-size: 2rem;
   line-height: 1.15;
   margin-top: 1.8em;
+  font-weight: 500;
 }
 
 article h3 {
   font-size: 1.55rem;
   line-height: 1.2;
   margin-top: 1.6em;
+  font-weight: 500;
 }
 
 article p {
@@ -204,9 +211,10 @@ article p {
 }
 
 article blockquote {
-  font-size: 1.12em;
-  line-height: 1.55;
+  font-size: 1.08em;
+  line-height: 1.5;
   margin: 2em 0;
+  font-weight: 400;
 }
 
 @media (max-width: 700px) {
@@ -242,6 +250,7 @@ article blockquote {
   .transclude-src {
     display: inline-block;
     margin-top: 0.5rem;
+    font-family: "ABC Areal", sans-serif;
     font-size: 0.85rem;
     color: var(--gray);
     text-decoration: none;
