@@ -108,12 +108,17 @@ li.overflow-end {
 }
 a.external {
   color: var(--dark) !important;
-  text-decoration: underline;
+  font-weight: 400;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
   text-decoration-color: var(--dark);
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 1px;
 }
 
 a.external:hover {
   color: var(--dark) !important;
+  text-decoration-style: solid;
 }
 @media (max-width: 1200px) {
   .page>#quartz-body {
