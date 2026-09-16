@@ -172,7 +172,7 @@ footer {
 article {
   font-family: "Newsreader", serif;
   font-size: 1.25rem; // 20px at the browser default root size
-  line-height: 1.65;
+  line-height: 1.75;
 }
 
 // Areal creates contrast at structural and expressive moments.
@@ -207,7 +207,7 @@ article h3 {
 }
 
 article p {
-  margin-bottom: 1.15em;
+  margin-bottom: 1.4em;
 }
 
 article blockquote {
@@ -220,7 +220,7 @@ article blockquote {
 @media (max-width: 700px) {
   article {
     font-size: 1.1875rem; // 19px on smaller screens
-    line-height: 1.62;
+    line-height: 1.7;
   }
 
   article > h1 {
