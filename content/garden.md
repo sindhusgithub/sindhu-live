@@ -14,6 +14,8 @@ These are essays & thoughts from the variety of rabbit holes I'm curious enough 
 **🪴 Plant**: (Fairly) established essays that get a minor pruning now and then.
 
 ---
+[[annie-dillard|The world won't be beautiful for us to love it]] · 🌿 · September 2026
+
 [[review-east-of-eden|Thou mayest]] · 🌿 · September 2026
 
 [[review-lazar-nelio-biedermann|Intimacy in the ruins of a nation: A review of Lázár by Nelio Biedermann]] · 🌿 · August 2026
