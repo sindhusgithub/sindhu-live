@@ -1,6 +1,6 @@
 ---
 created date: 2026-09-17
-title: the world won’t be beautiful for us to love it
+title: The world won’t be beautiful for us to love it
 description: on Annie Dillard, and how attention doesn’t make things easier to love
 date: 2026-09-17
 stage: 🌿 Sprout
