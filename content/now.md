@@ -11,7 +11,7 @@ updated: 2026-10-09
 
 ---
 ### Work and Projects
-I've completed a month at Pixxel. It's been an interesting ride getting to grips with space technology and the Indian space industry (the #pixxel and #spacetech tags on my Obsidian have 31 entries already).
+I've completed a month at Pixxel. It's been an interesting ride getting to grips with space technology and the Indian space industry (the `pixxel` and `spacetech` tags on my Obsidian have 31 entries already).
 
 I've been to the Clean Room three times already; it's unbelievable that I get to be around incredibly complex hardware which shoot up into literal space. It still feels fantastical. 
 
