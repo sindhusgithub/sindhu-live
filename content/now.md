@@ -15,7 +15,7 @@ I've completed a month at Pixxel. It's been an interesting ride getting to grips
 
 I've been to the Clean Room three times already; it's unbelievable that I get to be around incredibly complex hardware which shoot up into literal space. It still feels fantastical. 
 
-On Kindred Spirits, the last essay I wrote on Kindred Spirits was upon the death of Annie Dillard, on how [the world won't be beautiful just so we can love it](https://www.readkindredspirits.com/p/the-world-wont-be-beautiful-for-us). But other than that, I've been drafting essays that are converging towards ideas of cooking, feminism, language, and food.
+On Kindred Spirits, the last essay I wrote was upon the death of Annie Dillard, on how [the world won't be beautiful just so we can love it](https://www.readkindredspirits.com/p/the-world-wont-be-beautiful-for-us). But other than that, I've been drafting essays that are converging towards ideas of cooking, feminism, language, and food. None of them are publish-ready yet, but I'm having fun writing in the space of personal memory and socio-cultural history again. 
 
 
 ### Play
