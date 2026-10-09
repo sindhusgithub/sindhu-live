@@ -5,7 +5,7 @@ publish: true
 updated: 2026-10-09
 ---
 
-*A sporadically updated log of what I'm doing and thinking about. I remain an intensely private person, so this represents maybe 30% of my life that I'm comfortable sharing publicly.*
+*A sporadically updated log of what I'm doing and thinking about. As a private person, this represents maybe 30% of my life that I'm comfortable sharing publicly :) *
 
 *Updated on 09 Oct, 2026*
 
