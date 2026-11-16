@@ -2,40 +2,31 @@
 title: Now
 description: A sporadically updated log of what I've been doing, reading and thinking about
 publish: true
-updated: 2026-10-09
+updated: 2026-11-16
 ---
 
 *A sporadically updated log of what I'm doing and thinking about. As a private person, this represents maybe 30% of my life that I'm comfortable sharing publicly :)*
 
-*Updated on 09 Oct, 2026*
+*Updated on 16 Nov, 2026*
 
 ---
 ### Work and Projects
-I've completed a month at Pixxel. It's been an interesting ride getting to grips with space technology and the Indian space industry (the `pixxel` and `spacetech` tags on my Obsidian have 31 entries already).
-
-I've been to the Clean Room three times already; it's unbelievable that I get to be around incredibly complex hardware which shoot up into literal space. It still feels fantastical. 
-
-On Kindred Spirits, the last essay I wrote was upon the death of Annie Dillard, on how [the world won't be beautiful just so we can love it](https://www.readkindredspirits.com/p/the-world-wont-be-beautiful-for-us). But other than that, I've been drafting essays that are converging towards ideas of cooking, feminism, language, and food. None of them are publish-ready yet, but I'm having fun writing in the space of personal memory and socio-cultural history again. 
-
+Festive season has coincided with the busiest quarter of the year for a brand and comms team, leading to a sort of whiplash. End-of-year projects are sort of the mainstay for people like us, but it's really tempting to give into the November laziness and watch this year slide into the next while keeping a comfortable distance. 
 
 ### Play
 
 #### Reading
-I've read 46 books out of my goal of 50 this year, which I pat myself on the back for. I continue to bias towards literary fiction, but also upped my intake of historical fiction, according to Fable.
+I've completed my goal of reading 50 books this year! I'm so thrilled, especially because I chose books because I wanted to read them and was no way pressured by having set that goal (a win for me). I'm hoping to do a proper round-up sometime next month, before the year ends.
 
-That said, I've not done too well with non-fiction; I think the number of hours I give to strategy and research per day means I have no capacity left for it when it comes to personal reading. 
+I recently read an essay on Substack about how people who say they've read 30 or more books a year are basically lying, and it was so tempting to fall for that ragebait and engage in the comments section. I firmly believe if you want to do something, or become someone, you will make time for it. My mother, one of the busiest people I know, still reads a minimum of 20 pages a day, because it's as important to her as anything else she does. I also believe—from this year's experience—that if we all deleted social media, we'd get back hours of time we didn't know we were losing. It's such a black hole. 
+
 
 #### Watching
-At the urging of one of my closest friends ("put ur top 4 films on letterboxed, coward") I've finally downloaded Letterboxd and committed to watching, well, more movies this year. My most recent watch was _Tony_, which I found moving and hopeful despite the context. I also watched _The Remains of The Day_, which was a masterclass in self-contained acting.
+I was supposed to watch more movies this year but I keep returning to my tried-and-true watches (it is _Harry Potter_ season, after all). I think this is mostly because I'm looking at a laptop screen for so many hours a day, every single week, that the last thing I want to do is look at a bigger screen. My eyes and ears need a break. There's probably a direct correlation between this and my reading this year, actually. 
 
-My Nintendo Switch has been seeing more use as well, because I restarted _Legend of Zelda: Breath of The Wild_ and have _Hogwarts Legacy_ on standby. There's lots being said and shown about _Rain World_, which has also piqued my curiosity. I might get that next.
 
 #### Creating
-I added two new plants to my balcony: hibiscus and jasmine. They've both settled in nicely, and the hibiscus plant has produced three flowers (massive, each the size of my entire hand) since I brought it home a few weeks ago.
+I recently began wheel-building pottery lessons. I've gravitated towards making with clay for a while now; three years ago I did a hand-building course at the same studio I go to now. I won't lie and say this wasn't partly fuelled by wanting to learn an irreplaceable skill. Sure, factories have been making ceramics for decades now, but there's still respect for individual potters and the uniqueness of each design. But that's only one part of the reaon. In the long run, I would love to be someone who makes a lot of the things I use: growing my own vegetables, making my own ceramics, sewing my own clothes, for example. I would love for doing that to further shape my tastes and boundaries of my self. I think it's a really exciting project of personhood to take on. 
 
-The downside is that it needs to be watered every two days or else it droops very dramatically. My bougainvillea better not learn that art. 
-
-#### Feeling
-I've been increasingly feeling like my apartment is perfect, but missing just one thing: a dog. I imagine a little Shih-tzu running around and the temptation to drive to the nearest adoption centre and file an application is almost unbearable.
-
-But I've been holding back because it's a lot of work, I'm not home enough hours of the day, and I'm too devoted to giving my future dog its best life to bring one home and give it half of what I can. So we wait, until life becomes stable enough in other ways. 
+### Experiencing
+My sister's in town for a month. It's been enjoyable figuring out where to take her, to show her the up-and-coming sides of the Bangalore she knew. Of course, it's also been an excuse for me to indulge in the food and drink scene without guilt. 
